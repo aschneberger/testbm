@@ -1,2 +1,2 @@
 # testbm
-TEST COMMITING origin dozdo zkdo k
+THE BIG BIG TEST
